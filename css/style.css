@@ -436,12 +436,21 @@ nav {
   background-color: #F5F5F5;
   margin: 10px 0px;
 }
+.progress-c{
+  width: 30%
+}
 .progress-made {
   background-color: #FFE600;
   height: 6px;
 }
+.progress-jk{
+  width: 40%
+}
 .progress-ps {
-  width: 90%
+  width: 60%
+}
+.progress-react {
+  width: 80%
 }
 .progress-ai {
   width: 30%
@@ -624,7 +633,7 @@ div.cont{
   -webkit-box-shadow: 0px 0px 15px 0px rgba(27,27,27,0.1);
   -moz-box-shadow: 0px 0px 15px 0px rgba(27,27,27,0.1);
   box-shadow: 0px 0px 15px 0px rgba(27,27,27,0.1);
-  height: 500px;
+  height: 600px;
   max-width: 270px;
 }
 .team-image {
